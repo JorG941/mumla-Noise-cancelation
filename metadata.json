@@ -1,0 +1,7 @@
+{
+  "name": "Mumla Voice - Mumble Client & Noise Cancellation",
+  "description": "Mumla client for Mumble voice chat featuring active noise cancellation, low-latency audio transmission, channel tree management, public server browser, and rich text chat.",
+  "major_capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
